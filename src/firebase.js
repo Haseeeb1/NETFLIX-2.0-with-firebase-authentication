@@ -3,7 +3,7 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBoYsb98N7QX5HiBIozuS3KH7_a9KUeH7A",
+  apiKey: "Your api key",
   authDomain: "netflix-2-2fad6.firebaseapp.com",
   databaseURL:
     "https://netflix-2-2fad6-default-rtdb.asia-southeast1.firebasedatabase.app",
