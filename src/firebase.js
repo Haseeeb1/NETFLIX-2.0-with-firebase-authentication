@@ -4,13 +4,13 @@ import "firebase/compat/firestore";
 
 const firebaseConfig = {
   apiKey: "Your api key",
-  authDomain: "netflix-2-2fad6.firebaseapp.com",
+  authDomain: "your authdomain",
   databaseURL:
-    "https://netflix-2-2fad6-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "netflix-2-2fad6",
-  storageBucket: "netflix-2-2fad6.appspot.com",
-  messagingSenderId: "809018501964",
-  appId: "1:809018501964:web:405ea05eaab6e1fbb9fde9",
+    "your db url",
+  projectId: "your projectid",
+  storageBucket: "....",
+  messagingSenderId: "....",
+  appId: ".....",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
